@@ -1,22 +1,25 @@
-<<<<<<< HEAD
-    # Who am I
-    im a twitter
-    * Where are you from?
-    * What do you do?
-    * Do you have previous experience with technology/data?
-=======
-du du du duuu du duuu
+# Who am I
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra laoreet lorem et dapibus. Integer auctor dignissim egestas. Ut id purus neque. Pellentesque imperdiet lacus in libero laoreet, at tempus felis tristique. Cras fermentum erat a dui vulputate gravida. Nulla aliquet nisi interdum nulla pretium, ac vestibulum diam congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus lacus risus, sodales vitae viverra quis, maximus ac ipsum. Sed consequat viverra mattis. Curabitur iaculis varius mollis.
->>>>>>> f279d81f4d6fe9543f7e68ff143f1438ae8dd448
+* Where are you from?
+Chinese German
+* What do you do?
+Do things
+* Do you have previous experience with technology/data?
+some wht
 
-    # Why am I here
+# Why am I here
 
-    * What has brought you to Ironhack?
-    * What knowledge/skills do you expect to learn in this bootcamp?
+* What has brought you to Ironhack?
+Corona
+* What knowledge/skills do you expect to learn in this bootcamp?
+python, data handling, machine learning
 
-    # What will I do after the bootcamp?
 
-    * Which industry will you seek employment in?
-    * What will your future role look like?
-    * What is your career goal?
+# What will I do after the bootcamp?
+
+* Which industry will you seek employment in?
+data science
+* What will your future role look like?
+senior data analyst/manager
+* What is your career goal?
+get good at machine learning and write awesome AI stuff.
